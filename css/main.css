@@ -1,14 +1,17 @@
 
 .heading h1 {
-    font-size: 50px;
+    font-size: 75px;
     font-family: 'Shift', sans-serif;
     color: blue;
     position: relative;
-    top: 100px;
+    top: 50px;
     left: 50px;
 }
 
 .heading ul li {
+    position: relative;
+    top: 55px;
+    left: 55px;
     
     color: green;
 }
