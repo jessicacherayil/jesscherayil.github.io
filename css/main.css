@@ -3,6 +3,9 @@
     font-size: 50px;
     font-family: 'Shift', sans-serif;
     color: blue;
+    position: relative;
+    top: 100px;
+    left: 50px;
 }
 
 .heading ul li {
