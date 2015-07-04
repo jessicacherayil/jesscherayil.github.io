@@ -16,9 +16,8 @@
     color: green;
 }
 
-.portrait img{
-    float: right;
-    
-    
+.background{
+    background-image: url('https://scontent-lga1-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/11181699_813811648734262_229909725139280467_n.jpg?oh=5846f0ff4282f7d934ad395dbfec4d79&oe=5613BDD2');
+}
 }
 
