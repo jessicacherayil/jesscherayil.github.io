@@ -7,6 +7,10 @@
 
 }
 
+.heading p{
+    font-family: 'Shift', sans-serif;
+}
+
 .nav ul li {
     display: inline;
     color: green;
