@@ -61,7 +61,8 @@ dfn {
   font-style: italic;
 }
 h1 {
-  margin: .67em 0;
+  position: relative;
+  left: 0px; 
   font-size: 2em;
 }
 mark {
