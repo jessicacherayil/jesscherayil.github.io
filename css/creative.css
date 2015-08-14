@@ -174,11 +174,8 @@ aside {
 
 .resume-section {
     
-    width: 100%;
-    padding: 50px 0;
-    color: #fff;
-    background: url(../img/portrait2.jpg) no-repeat center center scroll;
-    background-color: #000;
+
+    background: url(../img/philadelphia-skyline.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
