@@ -175,7 +175,7 @@ aside {
 
 .resume-section {
     
-
+    height: 500px;
     background: url(../img/philadelphia-skyline.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
