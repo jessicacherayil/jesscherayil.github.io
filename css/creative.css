@@ -65,11 +65,11 @@ p {
 }
 
 section {
-    <!--padding: 100px 0;-->
+    /*padding: 100px 0;*/
 }
 
 aside {
-    <!--padding: 50px 0;-->
+    /*padding: 50px 0;*/
 }
 
 .no-padding {
@@ -202,7 +202,7 @@ header {
 header .header-content {
     position: left;
     width: 100%;
-    <!--padding: 10px 10px;-->
+    /*padding: 10px 10px;*/
     text-align: left;
 }
 
@@ -232,7 +232,7 @@ header .header-content .header-content-inner p {
     header .header-content {
         position: absolute;
         top: 50%;
-        <!--padding: 0 50px;-->
+        /*padding: 0 50px;*/
         -webkit-transform: translateY(-50%);
         -ms-transform: translateY(-50%);
         transform: translateY(-50%);
