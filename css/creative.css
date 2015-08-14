@@ -172,25 +172,40 @@ aside {
     }
 }
 
-header {
-    position: relative;
+.resume-section {
+    
     width: 100%;
-    min-height: auto;
-    text-align: center;
+    padding: 50px 0;
     color: #fff;
-    background-image: url(../img/P7050377.JPG);
-    background-position: center;
+    background: url(../img/portrait2.jpg) no-repeat center center scroll;
+    background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+
+    
+}
+
+header {
+    position: relative;
+    width: 100%;
+    min-height: auto;
+    text-align: left;
+    color: #fff;
+    background-image: url(../img/portrait2.jpg);
+    background-position: right;
+    -webkit-background-size: 90% 90%;
+    -moz-background-size: 90% 90;
+    background-size: 90% 90;
+    -o-background-size: 90% 90;
 }
 
 header .header-content {
-    position: relative;
+    position: left;
     width: 100%;
-    padding: 100px 15px;
-    text-align: center;
+    padding: 10px 10px;
+    text-align: left;
 }
 
 header .header-content .header-content-inner h1 {
@@ -201,7 +216,7 @@ header .header-content .header-content-inner h1 {
 }
 
 header .header-content .header-content-inner hr {
-    margin: 30px auto;
+    margin: 10px auto;
 }
 
 header .header-content .header-content-inner p {
