@@ -176,9 +176,9 @@ aside {
 .resume-section {
     
     width: 100%;
-    padding: 250px 0;
+    padding: 100px 0;
     color: #fff;
-    background: url(../img/philadelphia-skyline.jpg) no-repeat center center scroll;
+    background: url(../img/philadelphia-skyline.jpg) no-repeat bottom center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
