@@ -66,7 +66,6 @@ p {
 
 section {
     padding: 100px 0;
-    height: auto;
 }
 
 aside {
@@ -197,11 +196,11 @@ header {
     position: relative;
     width: 100%;
     min-height: auto;
-    text-align: left;
+    text-align: center;
     color: #fff;
     background-image: url(../img/portrait2.jpg);
-    background-position: right;
-    background-repeat: no-repeat;
+    background-position: center;
+    /*background-repeat: no-repeat;*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -211,7 +210,7 @@ header {
 header .header-content {
     position: left;
     width: 100%;
-    padding: 10px 10px;
+    padding: 100px 15px;
     text-align: left;
 }
 
@@ -223,7 +222,7 @@ header .header-content .header-content-inner h1 {
 }
 
 header .header-content .header-content-inner hr {
-    margin: 10px auto;
+    margin: 30px auto;
 }
 
 header .header-content .header-content-inner p {
@@ -262,7 +261,7 @@ header .header-content .header-content-inner p {
 }
 
 .section-heading {
-    margin-top: 25%;
+    margin-top: 0;
 }
 
 .service-box {
