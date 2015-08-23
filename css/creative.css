@@ -218,13 +218,12 @@ header {
 header .header-content {
     position: left;
     width: 100%;
-    padding: 100px 15px;
+    padding: 15px 15px;
     text-align: left;
 }
 
 header .header-content .header-content-inner h1 {
     margin-top:0;
-    margin-bottom: 0; /*CHANGED THIS MARGIN*/
     text-transform: uppercase;
     font-weight: 700;
 }
