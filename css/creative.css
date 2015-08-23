@@ -204,6 +204,7 @@ header {
     position: relative;
     width: 100%;
     min-height: auto;
+    padding-left: 50px;
     text-align: left;
     color: #fff;
     background-image: url(../img/portrait2.jpg);
