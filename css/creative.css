@@ -183,7 +183,7 @@ aside {
     color: #fff;
     background: url(../img/philadelphia-skyline.jpg) no-repeat scroll;
     /*background-position: top right;*/
-    height: 75%;
+    height: 100%;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -196,7 +196,7 @@ aside {
     position: relative;
     width: 100%;
     min-height: auto;
-    height: 75%;
+    height: 100%;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -259,7 +259,6 @@ header .header-content .header-content-inner p {
     }
 
     header .header-content .header-content-inner {
-        margin-right: auto;
         margin-left: 0px;
         max-width: 1000px;
     }
