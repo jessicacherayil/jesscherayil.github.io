@@ -184,6 +184,7 @@ aside {
     background: url(../img/philadelphia-skyline.jpg) no-repeat scroll;
     /*background-position: top right;*/
     height: 400px;
+    line-height: 400px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
