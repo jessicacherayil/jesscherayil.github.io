@@ -195,7 +195,7 @@ aside {
     position: relative;
     width: 100%;
     min-height: auto;
-    height: 400px;
+    height: 50%;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -203,7 +203,7 @@ aside {
 
 .resume-section h2 {
 
-    color: black;
+    color: #fff;
     
 }
 
