@@ -53,7 +53,7 @@ p {
 }
 
 .bg-primary {
-    padding:50px;
+    padding: auto 50px;
     background-color: #3399FF;
 }
 
@@ -67,8 +67,8 @@ p {
 }
 
 section {
-    padding: 50px 50px;
-    height:300px;
+    padding: 0px 50px;
+    height:500px;
 }
 
 aside {
@@ -180,7 +180,7 @@ aside {
     position: relative;
     width: 100%;
     min-height: auto;
-    padding: 100px 0;
+    padding: auto 50px;
     color: #fff;
     background: url(../img/philadelphia-skyline.jpg) no-repeat scroll;
     /*background-position: top right;*/
