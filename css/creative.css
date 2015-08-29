@@ -53,7 +53,6 @@ p {
 }
 
 .bg-primary {
-    padding:50px;
     background-color: #3399FF;
 }
 
@@ -67,8 +66,7 @@ p {
 }
 
 section {
-    padding: 50px 50px;
-    height:300px;
+    padding: 50px 0px;
 }
 
 aside {
@@ -184,13 +182,18 @@ aside {
     color: #fff;
     background: url(../img/philadelphia-skyline.jpg) no-repeat scroll;
     /*background-position: top right;*/
-
+    background-size: auto 500px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
+
     -o-background-size: cover;
     
 }
 
+.contact-section{
+    background-color: white;
+    
+}
 
 .resume-section h2 {
 
@@ -229,8 +232,6 @@ header .header-content .header-content-inner h1 {
 
 header .header-content .header-content-inner p {
     text-align: left;
-    margin-left: 0px;
-    padding-left: 0px;
     font-size: 16px;
     font-weight: 300;
     color: rgba(255,255,255,.7);
