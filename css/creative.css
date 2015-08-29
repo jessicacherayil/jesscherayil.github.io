@@ -53,6 +53,7 @@ p {
 }
 
 .bg-primary {
+    padding:50px;
     background-color: #3399FF;
 }
 
@@ -66,7 +67,7 @@ p {
 }
 
 section {
-    padding: 50px 0px;
+    padding: 50px 50px;
     height:300px;
 }
 
