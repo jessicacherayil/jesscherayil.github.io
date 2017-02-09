@@ -194,6 +194,24 @@ aside {
     
 }
 
+.published-section {
+    position: relative;
+    width: 100%;
+    min-height: auto;
+    padding: 100px 0;
+    color: #fff;
+    background: url(../img/Musaliar_computer_Science1.jpg) no-repeat scroll;
+    /*background-position: top right;*/
+    height: 400px;
+    padding-top: 150px;
+    padding-bottom: 200px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    
+}
+
 .contact-section{
     position: relative;
     width: 100%;
@@ -208,6 +226,10 @@ aside {
 
     color: #fff;
     
+}
+
+.published-section h2 {
+    color: #fff;
 }
 
 header {
